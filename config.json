@@ -25,7 +25,7 @@
       "api": "https://api.1080zyku.com/inc/apijson_vod.php",
       "name": "百度资源",
       "is_adult": false
-        "api_site": {
+    },
     "iqiyizyapi.com": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
